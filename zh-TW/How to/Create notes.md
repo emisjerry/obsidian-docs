@@ -1,8 +1,8 @@
-Notes are created in a few ways, depending on your workflow:
+依據你的工作流程，有下列幾種建立筆記的方法：
 
-1. **Note-first approach**. If you need to create a note, you can do so in [[File explorer]]. The keyboard shortcut is `Ctrl/Cmd+N`. Also, if you have the [[Command palette]] plugin enabled (it's on by default), press `Ctrl/Cmd-p` and type ‘new’, then select **********
+1. **筆記優先方法**：當需要建立筆記時，可以使用[[File explorer|檔案管理器]]來建立，或是使用快捷鍵 `Ctrl/Cmd+N`。當然，如果啟用了[[Command palette|命令面板]]外掛，就可以按 `Ctrl/Cmd-p` 並輸入「新增」，再選擇新增筆記 
  
-1. **Link-first approach**. If you like to freely create notes, just use an [[Internal link]] to link to any note name (it doesn't need to exist at the time of creating the link). To write in the newly created note, simply click on the link name. It will be automatically created in your Vault and ready to type!
+1. **連結優先方法**：如果想要更自由地建立筆記，只要使用[[Internal link|內部連結]]來連結到任何一個筆記檔名（此時該筆記並不需要存在）。只要點擊這個連結檔名就能在新建的筆記裡書寫，系統會自動在儲存庫建立筆記。
 
 ![[Pasted image 3.png]]
 
