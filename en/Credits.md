@@ -23,6 +23,7 @@ Names are not listed by amount of contribution, but alphabetically (or at least 
 ### Translators
 
 - canzi-teacher, 蚕子 (Chinese Simplified)
+- emisjerry, 簡睿 (Chinese - Traditional)
 
 ##### Add your name
 
